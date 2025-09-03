@@ -1,0 +1,23 @@
+{
+    "name": "cabinet-file-manager",
+    "version": "1.0.0",
+    "description": "キャビネットファイルの作成、展開ソフト",
+    "keywords": [],
+    "repository": {
+        "type": "git",
+        "url": "cabinet-file-manager"
+    },
+    "license": "BSL-1.0",
+    "author": "miikun95",
+    "type": "commonjs",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "devDeprndencies": {
+        "electron": "^25.0.0"
+    },
+    "dependencies": {
+        "electron": "^38.0.0"
+    }
+}
