@@ -27,13 +27,13 @@ Menu.setApplicationMenu(Menu.buildFromTemplate([
       {
         label: '設定',
         click: () => {
-          //設定画面を開く
+
         }
       },
       {
         label: 'キャビネットファイルマネージャーについて',
         click: () => {
-          //ダイアログを開く
+
         }
       }
     ]
